@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tip Calculator w/ Split &amp; Share</string>
+    <string name="textView_billAmountHint">Enter Amount</string>
+    <string name="slider">0%</string>
+    <string name="Tip">Tip</string>
+    <string name="TipAmount">Tip Amount</string>
+    <string name="Total">Total</string>
+    <string name="Total_Bill">Total Bill</string>
+    <string name="per_person_total">Per Person Total</string>
+    <string name="tip_total">Tip Total</string>
+    <string name="bill_total">Bill Total</string>
+    <string name="no_bill_tip_and_total_are_exact">No (bill, tip, and total are exact)</string>
+    <string name="tip_the_tip_is_rounded_up">Tip (the tip is rounded up)</string>
+    <string name="total_the_total_is_rounded_up">Total (the total is rounded up)</string>
+
+
+    <string-array name="Person">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>
